@@ -1,2 +1,2 @@
-# DailyProgrammer
-Exercises from www.reddit.com/r/dailyprogrammer
+# Practice
+Exercises from www.reddit.com/r/dailyprogrammer or codewars
